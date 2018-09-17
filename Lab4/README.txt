@@ -1,3 +1,5 @@
+# Lab4
+
 I created a makefile to make it easier to compile everything
 TO RUN PROGRAM TYPE
 make
