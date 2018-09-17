@@ -1,1 +1,3 @@
 # CIS3207-OperatingSystems
+
+This course is concept-oriented, not specialized to a particular operating system, and not trying to teach how to code the kernel of an operating system. After reviewing a number of system programming issues, it examines the basic components of modern operating systems in terms of their function, domain, design, principles and implementation techniques, use and impact on systems programming. It describes and uses in programming homework two modern operating systems (UNIX and Windows NT). Design and implementation of a number of concurrent programs is examined. Hardware support for operating system functions is discussed. 
