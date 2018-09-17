@@ -1,7 +1,7 @@
 # Lab 2
 
 myshell manual
-<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
 Description:
 myshell is a Unix shell program that serves as a command line interpreter that will execute commands inputted from either a user or read from a file. The functions are listed below. All input must be terminated via 'Enter' which is effectively the '\n' newline character.
 These functions are performed by making system calls to the Linux Kernel.
@@ -57,4 +57,3 @@ Running Background
 	-> Using the '&' symbol after a command will allow a command to execute in the background and as such allows other commands to run concurrently as the indicated one does. Myshell, by default, waits for a command to finish executing before prompting the user for another command.
 	Example: {command} {arg} &
 
-<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
